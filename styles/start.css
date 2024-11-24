@@ -1,0 +1,28 @@
+#instrucciones {
+  position: absolute;
+  width: 400px;
+  background-color: rgba(255, 255, 255, 0.9);
+  color: #000;
+  border-radius: 15px;
+  padding: 20px;
+  font-family: "Comic Sans MS, sans-serif";
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
+  text-align: center;
+  border: 2px solid #6c91c2;
+}
+
+#instrucciones h3 {
+  font-size: 24px;
+  color: #6c91c2;
+  margin-bottom: 10px;
+}
+
+#instrucciones ul {
+  list-style: none;
+  padding: 0;
+  font-size: 18px;
+}
+
+#instrucciones li {
+  margin: 5px 0;
+}
